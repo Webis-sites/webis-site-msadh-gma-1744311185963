@@ -13,6 +13,9 @@
   --font-size-base: 1rem;
   --border-radius: 1.25rem;
   --transition-speed: 0.3s;
+
+  --shadow-light: 5px 5px 15px rgba(0,0,0,0.1),-5px -5px 15px rgba(255,255,255,0.1);
+  --shadow-dark: 8px 8px 20px rgba(0,0,0,0.12),-8px -8px 20px rgba(255,255,255,0.12);
 }
 
     html {
