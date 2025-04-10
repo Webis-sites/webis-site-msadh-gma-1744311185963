@@ -16,6 +16,10 @@
 
   --shadow-light: 5px 5px 15px rgba(0,0,0,0.1),-5px -5px 15px rgba(255,255,255,0.1);
   --shadow-dark: 8px 8px 20px rgba(0,0,0,0.12),-8px -8px 20px rgba(255,255,255,0.12);
+
+  --card-shadow: 8px 8px 16px rgba(0, 0, 0, 0.05), -8px -8px 16px rgba(255, 255, 255, 0.8);
+  --glass-background: rgba(255, 255, 255, 0.2);
+  --glass-blur: 8px;
 }
 
     html {
