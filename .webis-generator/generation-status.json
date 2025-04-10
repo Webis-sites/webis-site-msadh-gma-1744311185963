@@ -1,11 +1,102 @@
 {
-  "timestamp": "2025-04-10T18:53:29.165Z",
+  "timestamp": "2025-04-10T18:54:09.104Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 15,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "Layout",
+      "type": "layout",
+      "status": "pending",
+      "description": "Main layout wrapper with RTL support for Hebrew language"
+    },
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "Elegant hero section showcasing the restaurant's ambiance with headline and CTA"
+    },
+    {
+      "name": "AboutSection",
+      "type": "about",
+      "status": "pending",
+      "description": "Section highlighting the restaurant's story, values and expertise"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "Showcase of the restaurant's services and specialties"
+    },
+    {
+      "name": "MenuHighlightsSection",
+      "type": "menu",
+      "status": "pending",
+      "description": "Featured menu items with appealing visuals"
+    },
+    {
+      "name": "HealthBenefitsSection",
+      "type": "benefits",
+      "status": "pending",
+      "description": "Section highlighting the health benefits of the restaurant's cuisine"
+    },
+    {
+      "name": "FAQSection",
+      "type": "faq",
+      "status": "pending",
+      "description": "Frequently asked questions with accordion functionality"
+    },
+    {
+      "name": "ContactForm",
+      "type": "contact",
+      "status": "pending",
+      "description": "Contact form with validation and submission handling"
+    },
+    {
+      "name": "LocationSection",
+      "type": "location",
+      "status": "pending",
+      "description": "Restaurant location with map integration"
+    },
+    {
+      "name": "Footer",
+      "type": "footer",
+      "status": "pending",
+      "description": "Site footer with navigation, contact info and social links"
+    },
+    {
+      "name": "NavigationBar",
+      "type": "navigation",
+      "status": "pending",
+      "description": "Responsive navigation bar with mobile menu"
+    },
+    {
+      "name": "Button",
+      "type": "ui",
+      "status": "pending",
+      "description": "Reusable button component with variants"
+    },
+    {
+      "name": "MenuPage",
+      "type": "page",
+      "status": "pending",
+      "description": "Full menu page with categories and items"
+    },
+    {
+      "name": "ContactPage",
+      "type": "page",
+      "status": "pending",
+      "description": "Contact page with form, map and information"
+    },
+    {
+      "name": "AboutPage",
+      "type": "page",
+      "status": "pending",
+      "description": "About page with restaurant history, team and values"
+    }
+  ],
   "repoName": "webis-site-msadh-gma-1744311185963"
 }
